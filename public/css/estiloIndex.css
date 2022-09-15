@@ -1,0 +1,78 @@
+:root{
+    --rojo: #E50914;
+	--fondo: #060606;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: var(--fondo);
+}
+
+header {
+    height: 700px;
+    background: url(../image/fondoNetflix.jpg);
+	padding: 30px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    /* border: 2px solid white; */
+    /* align-items: flex-start; */
+}
+
+.contenedor {
+	width: 90%;
+	margin: auto;
+    display: flex;
+    height: 110px;
+	justify-content: space-between;
+	align-items: center;
+    margin-top: 10px;
+    /* border: 2px solid white; */
+}
+.header-img{
+    width: 200px;
+    height: 100px;
+}
+
+/* header .contenedor {
+	display: flex;
+    height: 150px;
+	justify-content: space-between;
+	align-items: center;
+    margin-top: 0;
+    border: 2px solid white;
+} */
+header nav a {
+	color: #AAA;
+	text-decoration: none;
+	margin-right: 20px;
+}
+header nav a:hover{
+    border-bottom: 1px solid;
+    color: #FFF;
+}
+header nav a.activo {
+	color: #FFF;
+}
+.inicio{
+    width: 700px;
+    /* color: #FFF; */
+    
+    font-size: 60px;
+    text-align: center;
+    color: #FFF;
+    /* border: 2px solid white; */
+    margin:auto;
+    margin-top: 0;
+}
+footer{
+    height: 100px;
+    display: flex;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+}

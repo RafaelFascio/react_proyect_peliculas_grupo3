@@ -1,0 +1,32 @@
+[
+    {
+        "numPelicula" : "peliculas",
+        "titulo" : "1917",
+        "descripcion" : "Nos encontramos en el año 1917. La Guerra Mundial amenazaba con cambiar, para siempre, el orden mundial. Ante la amenaza que se cernía, Estados Unidos decidió entrar en el conflicto con el objetivo de desequilibrar la balanza que caracterizaba a la contienda.",
+        "link" : "https://www.youtube.com/watch?v=YrbdN5zaouU"
+    },
+    {
+        "numPelicula" : "pelicula2",
+        "titulo" : "Hasta el último hombre",
+        "descripcion" : "Narra la historia de Desmond Doss, un joven médico militar que participó en la sangrienta batalla de Okinawa, en el Pacífico durante la II Guerra Mundial, y se convirtió en el primer objetor de conciencia en la historia estadounidense en recibir la Medalla de Honor del Congreso. Doss quería servir a su país, pero desde pequeño se había hecho una promesa a sí mismo: no coger jamás ningún arma.",
+        "link" : "https://www.youtube.com/watch?v=ad0c1hgWABI"
+    },
+    {
+        "numPelicula" : "pelicula3",
+        "titulo" : "Matrix",
+        "descripcion" : "Thomas Anderson lleva una doble vida: por el día es programador en una importante empresa de software, y por la noche un hacker informático llamado Neo. Su vida no volverá a ser igual cuando unos misteriosos personajes le inviten a descubrir la respuesta a la pregunta que no le deja dormir: ¿qué es Matrix?",
+        "link" : "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+    },
+    {
+        "numPelicula" : "pelicula4",
+        "titulo" : "En busca de la felicidad",
+        "descripcion" : "Chris Gardner es un vendedor brillante y con talento, pero su empleo no le permite cubrir sus necesidades más básicas. Tanto es así que acaban echándolo, junto a su hijo de cinco años, de su piso de San Francisco y no tienen ningún lugar al que ir. Cuando Gardner consigue hacer unas prácticas en una prestigiosa correduría de bolsa, los dos protagonistas tendrán que afrontar muchas adversidades parar hacer realidad su sueño de una vida mejor. Basada en hechos reales.",
+        "link" : "https://www.youtube.com/watch?v=DMOBlEcRuw8"
+    },
+    {
+        "numPelicula" : "pelicula5",
+        "titulo" : "La quinta ola",
+        "descripcion" : "Tras una planificada invasión extraterrestre de la Tierra en 4 oleadas que ha acabado casi con toda la humanidad, la joven Cassie Sullivan intenta encontrar a su hermano pequeño mientras trata de sobrevivir junto a otros supervivientes.",
+        "link" : "https://www.youtube.com/watch?v=NfxnnSlW39k"
+    }
+]
